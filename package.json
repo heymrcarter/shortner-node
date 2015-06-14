@@ -1,0 +1,11 @@
+{
+  "name": "shortner-node",
+  "version": "0.1.0",
+  "description": "A url shortner",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Tom Carter",
+  "license": "MIT"
+}
