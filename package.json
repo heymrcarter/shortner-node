@@ -4,7 +4,7 @@
   "description": "A url shortner",
   "main": "server.js",
   "scripts": {
-    "test": "mocha"
+    "test": "NODE_ENV=test mocha --reporter spec app/tests"
   },
   "author": "Tom Carter",
   "license": "MIT",
